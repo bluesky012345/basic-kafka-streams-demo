@@ -3,7 +3,7 @@ ARG APP_NAME
 ARG APP_VERSION
 ENV VERSION=$APP_VERSION
 
-LABEL org.opencontainers.image.source=https://github.com/creek-service/basic-kafka-streams-demo/tree/main/handle-occurrence-service
+LABEL org.opencontainers.image.source=https://github.com/bluesky012345/basic.kafka.streams.demo/tree/main/handle-occurrence-service
 
 RUN mkdir -p /opt/creek
 

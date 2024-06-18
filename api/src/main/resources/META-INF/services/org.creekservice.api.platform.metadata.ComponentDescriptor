@@ -14,4 +14,4 @@
 # limitations under the License.
 #
 
-io.github.creek.service.basic.kafka.streams.demo.api.BasicKafkaStreamsDemoAggregateDescriptor
+io.github.bluesky012345.basic.kafka.streams.demo.api.BasicKafkaStreamsDemoAggregateDescriptor
